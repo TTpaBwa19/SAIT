@@ -160,7 +160,7 @@ menu:
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
-      url: https://github.com/devcows/hugo-universal-theme
+      url: https://github.com/TTpaBwa19/SAIT.git
       weight: 2
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
